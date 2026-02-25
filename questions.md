@@ -141,7 +141,7 @@
   
   или
 
-  Можно воспользоваться сокращенным вариантом, используя флаг –chown вместе с copy:
+  Можно воспользоваться сокращенным вариантом, используя флаг `–chown` вместе с `copy`:
 
     COPY --chown=demo-user:demo-group initial-config.yaml /data/config.yaml
   </details>
